@@ -1,4 +1,4 @@
-A simple tool to convert strings taken from cat-aws-tdl into blocks that can be added into an ECS task definition.
+A simple tool to convert strings taken from AWS CLI task definitions into blocks that can be added into an ECS task definition via JSON.
 
 Call the tool with a file as an argument like:
 
